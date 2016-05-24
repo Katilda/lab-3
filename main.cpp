@@ -26,7 +26,7 @@ int main()
     for(i=0;i<N;i++)
     {
       //  cout<<"2!"<<endl;
-        A[i]=rand() % 20; //or 100 000
+        A[i]=rand() % 100; //or 100 000
        // cout<<"A[i]= "<<A[i]<<endl;
     }
 
